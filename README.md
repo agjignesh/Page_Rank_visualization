@@ -1,7 +1,7 @@
 # How to run
 
-clone the repositry
-In the terminal write: streamlit run app.py
+1. Clone the repositry
+2. In the terminal write: streamlit run app.py
 
 # Understanding the PageRank Algorithm
 
