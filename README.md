@@ -1,3 +1,8 @@
+# How to run
+
+clone the repositry
+In the terminal write: streamlit run app.py
+
 # Understanding the PageRank Algorithm
 
 PageRank is a foundational algorithm, famously used by Google Search, to rank the importance of web pages based on the structure of the web's links. It models a "random surfer" navigating the web.
